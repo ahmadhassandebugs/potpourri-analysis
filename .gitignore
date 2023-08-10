@@ -1,3 +1,10 @@
+# IDE files
+.idea/
+
+# Data folders to ignore
+data
+data-processed
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
